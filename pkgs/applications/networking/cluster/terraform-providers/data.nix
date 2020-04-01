@@ -356,9 +356,9 @@
     {
       owner   = "terraform-providers";
       repo    = "terraform-provider-kubernetes";
-      rev     = "v1.10.0";
-      version = "1.10.0";
-      sha256  = "04hd9n9jm72fi81cmdz0yf374fg52r8yinsxy0ag29rd3r2l1k81";
+      rev     = "v1.11.1";
+      version = "1.11.1";
+      sha256  = "13m0g52i2z4s58grk22rv0yqbrfszfbxxhwisb5mi7cma4cp7506";
     };
   librato =
     {
